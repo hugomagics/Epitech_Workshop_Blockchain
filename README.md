@@ -48,7 +48,7 @@ touch .env
 
 Goal of this workshop is to create a ERC20 Token and deploy it on Polygon (Matic) Mumbai Testnet.
 We will use truffle to compile and deploy our smart contract.
-Get it touch with the contract file : [smartContract/contracts/MyToken.sol](We will code our smart contract in solidity language).
+Get it touch with the contract file : smartContract/contracts/Metacoin.sol (We will code our smart contract in solidity language).
 
 # 
 
